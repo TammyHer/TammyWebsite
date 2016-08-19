@@ -1,0 +1,2 @@
+class Tammy < ApplicationRecord
+end
